@@ -29,6 +29,7 @@ There are three user permission levels:
 - `make run` launches the app locally on port 8080 without Docker.
 - `make lint` runs the linter.
 
+
 ## Solution Details
 
 - Clean architecture setup (handler → service → repository).
